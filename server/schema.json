@@ -1,0 +1,39 @@
+{
+  "id": "19424ubt24gun",
+  "name": "Freios supremos",
+  "unitsCreated": "2",
+  "actives": "10",
+  "owner": {
+    "id": "425g35gin",
+    "email": "adm@freiossupremos.com",
+    "name": "bob"
+  },
+  "units": [
+    {
+      "id": "tn234ign24g",
+      "propietary": "19424ubt24gun",
+      "name": "unidade 1",
+      "unitAvailability": {
+        "totalActives": 13,
+        "inUse": 9,
+        "available": 3,
+        "underMaintenance": 1
+      },
+      "actives": [
+        {
+          "id": "jkfdn24uign2r5gi",
+          "name": "Servo Motor #SM359",
+          "description": "Motor para elevar carga",
+          "company": "19424ubt24gun",
+          "unit": "tn234ign24g",
+          "status": "available",
+          "model": {
+            "name": "SM0 SM7894h3",
+            "image": "...",
+            "description": "CA 220V - 3000RPM 200W com freio"
+          }
+        }
+      ]
+    }
+  ]
+}
